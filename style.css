@@ -1,0 +1,24 @@
+* {
+    background-color: #abd699;
+    
+}
+
+.head1{
+font-size: 36px;
+font-family: Arial, Helvetica, serif;
+text-align: left;
+font-weight: 700;
+}
+
+.img1 {
+height: auto;
+width: 1080px;;
+}
+
+.links {
+    color:blue;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
