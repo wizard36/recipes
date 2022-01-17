@@ -2,12 +2,14 @@
     background-color: #abd699;
     
 }
+/* index page */
 
 .head1{
 font-size: 36px;
 font-family: Arial, Helvetica, serif;
 text-align: left;
-font-weight: 700;
+font-weight: 1000;
+font-style:italic;
 }
 
 .img1 {
@@ -22,3 +24,52 @@ width: 1080px;;
     text-align: left;
 }
 
+/* recipe pages */
+
+.img2 {
+    height:596px;
+    width:596px;
+
+}
+
+.img3 {
+    display:block;
+    width:1024px;
+    height:auto;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+.head2 {
+font-size:30px;
+font-weight: bolder;
+font-family:'Courier New', Courier, monospace;
+text-align:left;
+}
+
+.head3 {
+font-size:36px;
+font-weight: bolder;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align:center;
+}
+
+
+.Description {
+font-size: 24px;
+font-weight: bold;
+font-family:'Times New Roman', Times, serif;
+}
+
+.Ingredients {
+    font-size: 18px;
+    font-weight: normal;
+    font-family:Verdana, Tahoma, sans-serif;    
+}
+
+.Steps {
+font-size: 18px;
+font-weight: normal;
+font-family: Georgia, Times, 'Times New Roman', serif;
+}
