@@ -26,6 +26,7 @@ width: 1080px;;
 
 /* recipe pages */
 
+/*img */
 .img2 {
     height:596px;
     width:596px;
@@ -40,7 +41,7 @@ width: 1080px;;
     margin-right:auto;
 }
 
-
+/* header */
 .head2 {
 font-size:30px;
 font-weight: bolder;
@@ -55,7 +56,7 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
 text-align:center;
 }
 
-
+/* paragraph */
 .Description {
 font-size: 24px;
 font-weight: bold;
